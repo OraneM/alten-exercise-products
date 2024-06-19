@@ -1,0 +1,10 @@
+perso\alten\test\service\ProductNotFoundException.class
+perso\alten\test\api\ProductController.class
+perso\alten\test\service\ProductMapper.class
+perso\alten\test\service\ProductMapperImpl.class
+perso\alten\test\api\ProductAPI.class
+perso\alten\test\data\repository\ProductRepository.class
+perso\alten\test\api\ProductDTO.class
+perso\alten\test\data\entity\ProductEntity.class
+perso\alten\test\Main.class
+perso\alten\test\service\ProductService.class
